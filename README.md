@@ -1,6 +1,6 @@
 # Memory Game - Web Exercise
 
-This is the extra web exercise for Hackademy Programming Club.
+This is the extra web exercise for Hackademy Programming Club. You can play [https://roeeyn.github.io/CardMemoryGame/](here) 😁
 
 ![demo gif](https://media.giphy.com/media/hRxMBXH4LQ4yUH0hUN/giphy.gif)
 
@@ -14,5 +14,3 @@ This is the extra web exercise for Hackademy Programming Club.
 This repo was inspired by one of the many [freeCodeCamp](https://www.freecodecamp.org/) tutorials. Thank you very much!
 
 Made with 💚 for Hackademy 🇲🇽.
-
-##
